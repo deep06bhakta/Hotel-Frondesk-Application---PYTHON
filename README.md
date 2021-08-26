@@ -1,5 +1,12 @@
 # Hotel-Frondesk-Application
 
-An entry level hotel application mainly built with Python and tkinter
+An entry level hotel application demo mainly built with Python and tkinter
 
-Project credits: Sergio Valadez Polanco, Deep Bhakta
+The application includes:
+- It has a lockscreen that requires the username and password (user: admin, pass: admin)
+- Potential to store data inside
+- Several features such as check in, check out, guest list and hotel content. (many features to be added in future)
+
+** This project is still under development and will be improved in future **
+
+Project credits: Sergio Valadez Polanco, Deep Bhakta       
