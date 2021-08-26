@@ -3,7 +3,7 @@
 An entry level hotel application demo mainly built with Python and tkinter
 
 The application includes:
-- It has a lockscreen that requires the username and password (user: admin, pass: admin)
+- It has a lockscreen that requires a username and password (user: admin, pass: admin)
 - Potential to store data inside
 - Several features such as check in, check out, guest list and hotel content. (many features to be added in future)
 
