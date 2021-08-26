@@ -10,3 +10,5 @@ The application includes:
 ** This project is still under development and will be improved in future **
 
 Project credits: Sergio Valadez Polanco, Deep Bhakta       
+
+--> NOTICE: Do not tamper code, and use it wisely!
